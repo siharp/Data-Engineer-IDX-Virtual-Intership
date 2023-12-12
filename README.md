@@ -1,5 +1,9 @@
 # Virtual Internship Data Engineer IDX Partners
-## Introduction 
+## Introduction
+
+<p align="center">
+  <img src="Image/Screenshot 2023-12-12 154532.png" width=800 align="center">
+</p>
 
 ## Task 
 1. Perform the Import/Restore of the Staging Database.
